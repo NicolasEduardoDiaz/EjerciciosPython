@@ -10,4 +10,4 @@ b = int(input("cateto b "))
 c = (a**2 + b**2)**0.5
 #c es la hipotenusa del triangulo
 hipotenusa = c
-print("la hipotenusa del triangulo es ", hipotenusa)
+print(f"la hipotenusa del triangulo es ", hipotenusa)
